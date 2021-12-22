@@ -1,0 +1,3 @@
+/mnt/f/facultate/Anul4/Sem1/IEP/lab4/lucrarea4/build/CMakeFiles/rebuild_cache.dir
+/mnt/f/facultate/Anul4/Sem1/IEP/lab4/lucrarea4/build/CMakeFiles/edit_cache.dir
+/mnt/f/facultate/Anul4/Sem1/IEP/lab4/lucrarea4/build/CMakeFiles/driver.dir

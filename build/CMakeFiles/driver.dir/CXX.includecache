@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/f/facultate/Anul4/Sem1/IEP/lab4/lucrarea4/src/driver.cpp
+iostream
+-
+
+/mnt/f/facultate/Anul4/Sem1/IEP/lab4/lucrarea4/src/juniorDriver.cpp
+iostream
+-
+memory
+-
+thread
+-
+driver.cpp
+/mnt/f/facultate/Anul4/Sem1/IEP/lab4/lucrarea4/src/driver.cpp
+lock.cpp
+/mnt/f/facultate/Anul4/Sem1/IEP/lab4/lucrarea4/src/lock.cpp
+
+/mnt/f/facultate/Anul4/Sem1/IEP/lab4/lucrarea4/src/lock.cpp
+iostream
+-
+memory
+-
+mutex
+-
+uncopyable.cpp
+/mnt/f/facultate/Anul4/Sem1/IEP/lab4/lucrarea4/src/uncopyable.cpp
+
+/mnt/f/facultate/Anul4/Sem1/IEP/lab4/lucrarea4/src/uncopyable.cpp
+iostream
+-
+
